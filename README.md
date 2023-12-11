@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nanalala0713
 - 👀 I’m interested in reading and writing.
-- 🌱 I’m currently learning how to use guthub.
+- 🌱 I’m currently learning how to use github.
 - 💞️ I’m looking to collaborate on some open source projects.
 
 <!---
